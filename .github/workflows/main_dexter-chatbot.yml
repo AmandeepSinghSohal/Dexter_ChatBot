@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'Dexter-ChatBot'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_901C576B52C34AD2B87D160DDED4B829 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B792696FEA254A6F9F6D3CB698C32569 }}
