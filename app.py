@@ -2,7 +2,7 @@
 from chatterbot import ChatBot
 from chatterbot.trainers import ChatterBotCorpusTrainer
 from flask import Flask, render_template, request
-import io, os, sys, setuptools, tokenize;
+import io, os, sys, setuptools, tokenize
 
 # variables
 name =''
